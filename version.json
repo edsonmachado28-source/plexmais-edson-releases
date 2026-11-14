@@ -1,6 +1,6 @@
-{
-  "versionCode": 91,
-  "versionName": "1.81",
-  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v1.81/app-tv-debug.apk",
-  "sha256": "FD351DB48513EDFBC926446AA23CF9C02F012A07C41665467E4F9763BDDD2E53"
+﻿{
+    "versionName":  "1.82",
+    "versionCode":  92,
+    "apkUrl":  "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v1.82/app-tv-debug.apk",
+    "sha256":  "14d5c1b447cd82dde0ebddb0439eb2edbd9d5fe5d27c2f9c1b816ae9f68a6402"
 }
