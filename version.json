@@ -1,6 +1,7 @@
 {
-  "versionName": "1.98",
-  "versionCode": 108,
-  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v1.98/plexmais1.98-app-tv-debug.apk",
-  "sha256": "a062df118af3a62780376157cfa25a524b16546b3609663d5e3b8433f25eb07d"
+  "versionName": "1.99",
+  "versionCode": 109,
+  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v1.99/plexmais1.99-app-tv-debug.apk",
+  "sha256": "178d9c2b10649244f8e97c0923d147528dc5f01722ac6b9468c91a4ca76a0238",
+  "novidades": "YouTube no modo TV, com botão Sair e tela inteira; IPTV: controle completo no player de filmes e séries; som no mini-player da tela de canais; atualização mostra o que muda nesta versão"
 }
