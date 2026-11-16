@@ -1,7 +1,7 @@
 {
-  "versionName": "2.00",
-  "versionCode": 110,
-  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.00/plexmais2.00-app-tv-debug.apk",
-  "sha256": "0a341d2865a561fdad9342527dd682af69dcc4847cc13d9b6dbd9ddf89fafd2e",
-  "novidades": "IPTV: filmes e séries em 5 colunas e ordem A–Z; aviso quando a lista tem mais itens do que o limite; atualização mostra o que muda nesta versão"
+  "versionName": "2.01",
+  "versionCode": 111,
+  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.01/plexmais2.01-app-tv-debug.apk",
+  "sha256": "fce4f8eb038eff5b6c7e13f7cdf4a879bbfe331b527dc830eab6bf97d949b360",
+  "novidades": "Tela de novidades mostra o que muda; YouTube: Sair só com SIM/NÃO; IPTV: foco preso dentro do IPTV"
 }
