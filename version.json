@@ -1,7 +1,7 @@
 {
-  "versionName": "2.01",
-  "versionCode": 111,
-  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.01/plexmais2.01-app-tv-debug.apk",
-  "sha256": "fce4f8eb038eff5b6c7e13f7cdf4a879bbfe331b527dc830eab6bf97d949b360",
-  "novidades": "Tela de novidades mostra o que muda; YouTube: Sair só com SIM/NÃO; IPTV: foco preso dentro do IPTV"
+  "versionName": "2.02",
+  "versionCode": 112,
+  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.02/plexmais2.02-app-tv-debug.apk",
+  "sha256": "82c3bccf9f406842945e11220e8d7c8eefd1e3cab56167999799e959a3e7fa4d",
+  "novidades": "YouTube: Voltar fecha Configurações; dois Voltar saem do vídeo; SIM/NÃO na tela inicial; IPTV: foco preso dentro do IPTV"
 }
