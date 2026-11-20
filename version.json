@@ -1,7 +1,7 @@
 {
-  "versionName": "2.06",
-  "versionCode": 116,
-  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.06/plexmais2.06-app-tv-debug.apk",
-  "sha256": "a1d10ba1465a681733e3f70d77df71bb657bd2355a5a5ff13e761136f0c0d866",
-  "novidades": "YouTube: Voltar na tela de perfis abre SIM/NÃO; Sair volta ao Plex Mais; sem verificação de menu fora do vídeo"
+  "versionName": "2.07",
+  "versionCode": 117,
+  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.07/plexmais2.07-app-tv-debug.apk",
+  "sha256": "941cb6bf4e288e10510019a176282efb68fb80ff04cd57f30cef3aa98c8917fa",
+  "novidades": "YouTube: Voltar fora do vídeo abre SIM/NÃO; vídeo detectado pela URL; volta para 100%"
 }
