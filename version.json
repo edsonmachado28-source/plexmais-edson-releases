@@ -1,7 +1,7 @@
 {
-  "versionName": "2.13",
-  "versionCode": 123,
-  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.13/plexmais2.13-app-tv-debug.apk",
-  "sha256": "0e7c04e6bd2540545e44df82a6a6876695f99969732f02cc502f01683163cd29",
-  "novidades": "2.13;Botão Sair corrigido no YouTube. YouTube sem Forte e sem pop-up. Versão 2.08 com ajustes."
+  "versionName": "2.14",
+  "versionCode": 124,
+  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.14/plexmais2.14-app-tv-debug.apk",
+  "sha256": "acba4a44204456c691e8330dab29a43dc39e465e60f44aeb3497369a8a16e4d4",
+  "novidades": "2.14;Sincronização das listas IPTV com o Google Drive"
 }
