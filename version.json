@@ -1,7 +1,7 @@
 {
-  "versionName": "2.14",
-  "versionCode": 124,
-  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.14/plexmais2.14-app-tv-debug.apk",
-  "sha256": "acba4a44204456c691e8330dab29a43dc39e465e60f44aeb3497369a8a16e4d4",
-  "novidades": "2.14;Sincronização das listas IPTV com o Google Drive"
+  "versionName": "2.15",
+  "versionCode": 125,
+  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.15/plexmais2.15-app-tv-debug.apk",
+  "sha256": "062347f4f9ef8d12f1176b636b3d6b4545f0092e5b553c203d5aeb1a69e22edc",
+  "novidades": "2.15;Sincronização das listas IPTV com o Google Drive. Atalhos de Ajustes do aparelho e Rede e internet no topo do menu. Botão Sair corrigido no YouTube."
 }
