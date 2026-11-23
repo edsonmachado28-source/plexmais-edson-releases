@@ -1,7 +1,7 @@
 {
-  "versionName": "2.11",
-  "versionCode": 121,
-  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.11/plexmais2.11-app-tv-debug.apk",
-  "sha256": "b16f9c934be728383e12a2e1946a1d0d10ca7b5dbba69292c0746637e04b8b6d",
-  "novidades": "Novidades: Vinheta de abertura com som; YouTube (Leve) e YouTube TV (Forte) com pop-up de escolha; botão Sair com confirmação SIM/NÃO no YouTube; YouTube TV (Forte) disponível em todos os aparelhos"
+  "versionName": "2.12",
+  "versionCode": 122,
+  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.12/plexmais2.12-app-tv-debug.apk",
+  "sha256": "be38c0b804b5ace99e55b8512ccfddc73eeea45f087cad748a8ba571b634aaf0",
+  "novidades": "Novidades: Vinheta de abertura com som; YouTube (Leve) e YouTube TV (Forte) com pop-up de escolha; botão Sair com confirmação SIM/NÃO no YouTube; YouTube TV (Forte) com mensagem de aviso se o motor não abrir no aparelho"
 }
