@@ -1,7 +1,7 @@
 {
-  "versionName": "2.09",
-  "versionCode": 119,
-  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.09/plexmais2.09-app-tv-debug.apk",
-  "sha256": "4623bb3f63b71b99558c6e8af5cd5d66af7620c50b94b893c9dba6fc604b8cd2",
-  "novidades": "YouTube (Leve) e YouTube TV (Forte); pop-up escolhe o melhor para o aparelho; vinheta de abertura"
+  "versionName": "2.11",
+  "versionCode": 121,
+  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.11/plexmais2.11-app-tv-debug.apk",
+  "sha256": "30c60a02a34ebb9f23bc94d82132b7715d76f7b6bff1e740aadc6e05b14eb5d1",
+  "novidades": "Novidades: Vinheta de abertura com som; YouTube (Leve) e YouTube TV (Forte) com pop-up de escolha; botão Sair com confirmação SIM/NÃO no YouTube; YouTube TV (Forte) disponível em todos os aparelhos"
 }
