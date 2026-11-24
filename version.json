@@ -1,7 +1,7 @@
 {
-  "versionName": "2.18",
-  "versionCode": 128,
-  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.18/plexmais2.18-app-tv-debug.apk",
-  "sha256": "010407231a79c70330a8ba542967d31848efb422daf05de97737ddfb6c6794ca",
-  "novidades": "2.18;Mostra o erro exato do Google na conexão do Drive e QR Code para conectar."
+  "versionName": "2.19",
+  "versionCode": 129,
+  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.19/plexmais2.19-app-tv-debug.apk",
+  "sha256": "776a0332439b1edd9e7b19e64c9d712459afe8932e83003c48beb88c654546f5",
+  "novidades": "2.19;Conexão do Google Drive corrigida com novo cliente OAuth."
 }
