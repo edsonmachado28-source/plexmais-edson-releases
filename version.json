@@ -1,7 +1,7 @@
 {
-  "versionName": "2.16",
-  "versionCode": 126,
-  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.16/plexmais2.16-app-tv-debug.apk",
-  "sha256": "88ebea14232ac9155b7d6d5b4030027856edbaf2c337a9a8e6d28f687cb43b1e",
-  "novidades": "2.16;Conexão com o Google Drive corrigida (escopo drive.file)."
+  "versionName": "2.17",
+  "versionCode": 127,
+  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.17/plexmais2.17-app-tv-debug.apk",
+  "sha256": "24290fd117581522efeae972c38f518cf2574bb103e4bc02db843dd1264af524",
+  "novidades": "2.17;Conexão do Google Drive com QR Code na TV, sem código que some rápido."
 }
