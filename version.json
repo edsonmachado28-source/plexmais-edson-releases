@@ -1,7 +1,7 @@
 {
-  "versionName": "2.20",
-  "versionCode": 130,
-  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.20/plexmais2.20-app-tv-debug.apk",
-  "sha256": "2d656902bd796890948fa77f38a0d8b1d31f1db6ad9c1f8a1644201c87c416e9",
-  "novidades": "2.20;Minha lista volta a aparecer no menu"
+  "versionName": "2.21",
+  "versionCode": 131,
+  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.21/plexmais2.21-app-tv-debug.apk",
+  "sha256": "d5090793d49fef306eec94ffc416f5fb536ed21b60ec6e9071e0c1d0c43d32b8",
+  "novidades": "2.21;Minha lista salva no aparelho e sincronizada com o Plex"
 }
