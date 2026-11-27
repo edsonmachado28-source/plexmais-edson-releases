@@ -1,7 +1,7 @@
 {
-  "versionName": "2.22",
-  "versionCode": 132,
-  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.22/plexmais2.22-app-tv-debug.apk",
-  "sha256": "825001b94bcfa8859da07fea769b5ea2785bfcacc499f07327e1f7cec6a0bf2a",
-  "novidades": "2.22;Busca inclui canais ao vivo"
+  "versionName": "2.23",
+  "versionCode": 133,
+  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.23/plexmais2.23-app-tv-debug.apk",
+  "sha256": "65af4addb9b6d91dc3a85258621eb7728ab623756000c1c7b7c8f056933bd996",
+  "novidades": "2.23;Atualização separada para o celular e correções de busca e Minha lista"
 }
