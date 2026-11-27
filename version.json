@@ -1,7 +1,7 @@
 {
-  "versionName": "2.21",
-  "versionCode": 131,
-  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.21/plexmais2.21-app-tv-debug.apk",
-  "sha256": "d5090793d49fef306eec94ffc416f5fb536ed21b60ec6e9071e0c1d0c43d32b8",
-  "novidades": "2.21;Minha lista salva no aparelho e sincronizada com o Plex"
+  "versionName": "2.22",
+  "versionCode": 132,
+  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.22/plexmais2.22-app-tv-debug.apk",
+  "sha256": "825001b94bcfa8859da07fea769b5ea2785bfcacc499f07327e1f7cec6a0bf2a",
+  "novidades": "2.22;Busca inclui canais ao vivo"
 }
