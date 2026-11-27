@@ -1,7 +1,7 @@
 {
-  "versionName": "2.19",
-  "versionCode": 129,
-  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.19/plexmais2.19-app-tv-debug.apk",
-  "sha256": "776a0332439b1edd9e7b19e64c9d712459afe8932e83003c48beb88c654546f5",
-  "novidades": "2.19;Conexão do Google Drive corrigida com novo cliente OAuth."
+  "versionName": "2.20",
+  "versionCode": 130,
+  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/v2.20/plexmais2.20-app-tv-debug.apk",
+  "sha256": "2d656902bd796890948fa77f38a0d8b1d31f1db6ad9c1f8a1644201c87c416e9",
+  "novidades": "2.20;Minha lista volta a aparecer no menu"
 }
