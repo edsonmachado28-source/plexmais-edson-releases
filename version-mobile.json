@@ -1,7 +1,7 @@
 {
-  "versionName": "2.23",
-  "versionCode": 133,
-  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/mobile-v2.23/plexmais2.23-app-mobile-debug.apk",
-  "sha256": "552b176f1d6a424757e6b242884246dade30a70fde401d5f64aefe6379a58f70",
-  "novidades": "2.23;Atualização separada para o celular e correções de busca e Minha lista"
+  "versionName": "2.24",
+  "versionCode": 134,
+  "apkUrl": "https://github.com/edsonmachado28-source/plexmais-edson-releases/releases/download/mobile-v2.24/plexmais2.24-app-mobile-debug.apk",
+  "sha256": "aab5c23e4d48bc0044793b88bf821587dbe5c4ccc487b04f73d641e132d93ec7",
+  "novidades": "2.24;Barra inferior no celular"
 }
